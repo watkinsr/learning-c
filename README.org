@@ -1,0 +1,6 @@
+* Learning C
+- Make linked-list
+- Alloc/dealloc memory
+- Structs
+- Algorithms
+- Other things
