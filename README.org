@@ -6,5 +6,6 @@
 - Other things
 
 * Resources
-- http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
-- https://www.cs.usfca.edu/~wolber/SoftwareDev/C/CStructs.htm
+- (Makefile) http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+- (Structs) https://www.cs.usfca.edu/~wolber/SoftwareDev/C/CStructs.htm
+- (Linked list) http://cslibrary.stanford.edu/103/LinkedListBasics.pdf
